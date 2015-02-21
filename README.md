@@ -13,6 +13,7 @@ actvitystream
 ### 协议中的部分节点介绍
 
 Activity Streams entry 元素总是包含以下元素，其中1,2,3为主元素，它们表示：
+
 1. actor：执行动作的人（例：John Doe）
 2. verb：执行的动作类型（例：added）
 3. object：动作所针对的项目（例：Ben's photo）
