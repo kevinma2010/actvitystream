@@ -259,3 +259,6 @@ http://192.168.7.50:3001/api/activity?activity.verb=request&activity.target.obje
 }
 ```
 
+## Copyright & License
+
+Copyright (c) 2015  Released under the [MIT license](LICENSE).
